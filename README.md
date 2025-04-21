@@ -1,10 +1,10 @@
-# jcraw4ai-mcp-server
+# jcrawl4ai-mcp-server
 
 Java implementation of MCP Server for interacting with Crawl4ai API.
 
 ## Project Overview
 
-jcraw4ai-mcp-server is a Spring Boot-based MCP server that interacts with the Crawl4ai API to perform web crawling. The main functionalities include:
+jcrawl4ai-mcp-server is a Spring Boot-based MCP server that interacts with the Crawl4ai API to perform web crawling. The main functionalities include:
 
 - Crawling specified URLs using a given strategy, maximum depth, and output format.
 - Getting the crawl result by a given task ID.
@@ -95,13 +95,13 @@ If you have any questions or suggestions, please contact [Ken Ye](mailto:yjz_wor
 
 ---
 
-# jcraw4ai-mcp-server
+# jcrawl4ai-mcp-server
 
 Java 实现的 MCP 服务器，用于与 Crawl4ai API 进行交互。
 
 ## 项目概述
 
-jcraw4ai-mcp-server 是一个基于 Spring Boot 的 MCP 服务器，用于调用 Crawl4ai API 进行网页爬取。该项目的主要功能包括：
+jcrawl4ai-mcp-server 是一个基于 Spring Boot 的 MCP 服务器，用于调用 Crawl4ai API 进行网页爬取。该项目的主要功能包括：
 
 - 使用指定的策略、最大深度和输出格式对给定的 URL 进行爬取。
 - 根据给定的任务 ID 获取爬取结果。

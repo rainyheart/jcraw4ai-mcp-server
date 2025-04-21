@@ -43,7 +43,7 @@ public class ClientStdio {
 
 		var stdioParams = ServerParameters.builder("java")
 			.args("-jar",
-					"./target/jcawl4ai-mcp-server-1.0.0.jar")
+					"./target/jcrawl4ai-mcp-server-1.0.0.jar")
 			.build();
 
 		var transport = new StdioClientTransport(stdioParams);

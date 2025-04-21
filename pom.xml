@@ -3,12 +3,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.rainyheart</groupId>
-	<artifactId>jcawl4ai-mcp-server</artifactId>
+	<artifactId>jcrawl4ai-mcp-server</artifactId>
     <version>1.0.0</version>
 	<packaging>jar</packaging>
 
-	<name>jcawl4ai-mcp-server</name>
-	<description>Cawl4ai MCP Server</description>
+	<name>jcrawl4ai-mcp-server</name>
+	<description>Crawl4ai MCP Server</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>

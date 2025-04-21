@@ -13,7 +13,7 @@ package org.rainyheart.cawl4ai.mcp.conf;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
-@ConfigurationProperties(prefix = "cawl4ai")
+@ConfigurationProperties(prefix = "crawl4ai")
 public class ConfigProperties {
     private String baseUrl;
     private String apiToken;
