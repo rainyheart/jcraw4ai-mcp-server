@@ -66,6 +66,29 @@ java -jar target/jcawl4ai-mcp-server-1.0.0.jar
 
 Log file path: `./target/mcp-stdio-server.log`.
 
+## MCP Server Configuration
+
+``` Json
+{
+  "mcpServers": {
+    "jcawl4ai-mcp-server": {
+      "autoApprove": [
+        "crawl",
+        "task"
+      ],
+      "disabled": false,
+      "timeout": 60,
+      "command": "java",
+      "args": [
+        "-jar",
+        "/path/to/your/jar/file/jcawl4ai-mcp-server-1.0.0.jar"
+      ],
+      "transportType": "stdio"
+    }
+  }
+}
+```
+
 ## Contact
 
 If you have any questions or suggestions, please contact [Ken Ye](mailto:yjz_work@126.com).
@@ -139,6 +162,30 @@ java -jar target/jcawl4ai-mcp-server-1.0.0.jar
 ## 日志
 
 日志文件路径为 `./target/mcp-stdio-server.log`。
+
+
+## MCP Server 配置
+
+``` Json
+{
+  "mcpServers": {
+    "jcawl4ai-mcp-server": {
+      "autoApprove": [
+        "crawl",
+        "task"
+      ],
+      "disabled": false,
+      "timeout": 60,
+      "command": "java",
+      "args": [
+        "-jar",
+        "/path/to/your/jar/file/jcawl4ai-mcp-server-1.0.0.jar"
+      ],
+      "transportType": "stdio"
+    }
+  }
+}
+```
 
 ## 联系
 
