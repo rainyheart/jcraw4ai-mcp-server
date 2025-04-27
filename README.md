@@ -41,6 +41,8 @@ mvn clean install
 java -jar target/jcawl4ai-mcp-server-1.0.0.jar
 ```
 
+You can download the jar file from this [link](https://github-registry-files.githubusercontent.com/969807736/78982980-2371-11f0-9074-8f75756ab435?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250427%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250427T061314Z&X-Amz-Expires=300&X-Amz-Signature=4069fd1d4dca48407ba3bfd5ee4a236eeaa67e284c97eda6bff4f3490fafdfc8&X-Amz-SignedHeaders=host&response-content-disposition=filename%3Djcrawl4ai-mcp-server-1.0.0.jar&response-content-type=application%2Foctet-stream) directly.
+
 ## APIs
 
 ### Crawl4aiApi
@@ -137,6 +139,8 @@ cawl4ai.api-token=your-api-token
 mvn clean install
 java -jar target/jcawl4ai-mcp-server-1.0.0.jar
 ```
+
+您可以从以下链接中直接下载jar包: [link](https://github-registry-files.githubusercontent.com/969807736/78982980-2371-11f0-9074-8f75756ab435?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250427%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250427T061314Z&X-Amz-Expires=300&X-Amz-Signature=4069fd1d4dca48407ba3bfd5ee4a236eeaa67e284c97eda6bff4f3490fafdfc8&X-Amz-SignedHeaders=host&response-content-disposition=filename%3Djcrawl4ai-mcp-server-1.0.0.jar&response-content-type=application%2Foctet-stream)
 
 ## 接口
 
