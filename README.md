@@ -1,6 +1,8 @@
 # jcrawl4ai-mcp-server
 
-Java implementation of MCP Server for interacting with Crawl4ai API.
+- Java implementation of MCP Server for interacting with Crawl4ai API.
+- Certified by [mcpreview](https://mcpreview.com/mcp-servers/rainyheart/jcrawl4ai-mcp-server)
+
 
 ## Project Overview
 
